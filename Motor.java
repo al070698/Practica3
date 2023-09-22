@@ -1,3 +1,13 @@
+/**
+* Automovil.java
+*
+* @author Héctor Quej Cosgaya
+* @author José Aguilar Canepa
+*
+* @created 05/11/12 10:50 PM
+*
+* Esta clase modela el motor de un automovil.
+*/
 import java.util.Random;
 
 public class Motor {
